@@ -1,7 +1,7 @@
 {
   "name": "caf_piface",
   "description": "Cloud Assistants lib to interact with Pi-Face hardware",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Antonio Lain <antlai@cafjs.com>",
   "dependencies": {
        "spi" : "https://github.com/RussTheAerialist/node-spi/tarball/master"
